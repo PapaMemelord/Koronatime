@@ -525,14 +525,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Notifications/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585661025624" />
-    <state x="830" y="413" key="Github.ShareDialog" timestamp="1585661078363">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1585671428742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="830" y="413" key="Github.ShareDialog/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585661078363" />
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585671428742" />
+    <state x="830" y="413" key="Github.ShareDialog" timestamp="1585671500882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="413" key="Github.ShareDialog/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585671500882" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1585661037170">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585661037170" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585671380600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585671380600" />
     <state x="-223" y="887" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585668263284">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
